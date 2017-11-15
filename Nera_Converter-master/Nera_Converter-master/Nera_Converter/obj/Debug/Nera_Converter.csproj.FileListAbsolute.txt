@@ -1,0 +1,14 @@
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\Nera_Converter.exe.config
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\Nera_Converter.exe
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\Nera_Converter.pdb
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\ExcelDataReader.dll
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\ExcelDataReader.xml
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.csprojResolveAssemblyReference.cache
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.Form1.resources
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.Properties.Resources.resources
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.csproj.GenerateResource.Cache
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.csproj.CoreCompileInputs.cache
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.exe
+C:\Users\wchesley\Downloads\Nera_Converter-master\Nera_Converter-master\Nera_Converter\obj\Debug\Nera_Converter.pdb
